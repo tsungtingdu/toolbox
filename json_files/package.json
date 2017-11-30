@@ -1,0 +1,21 @@
+{
+  "name": "colors.json",
+  "version": "2.0.0",
+  "description": "CSS color names JSON.",
+  "main": "colors.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corysimmons/colors.json.git"
+  },
+  "keywords": [
+    "css",
+    "colors",
+    "name"
+  ],
+  "author": "Cory Simmons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corysimmons/colors.json/issues"
+  },
+  "homepage": "https://github.com/corysimmons/colors.json#readme"
+}

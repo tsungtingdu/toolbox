@@ -1,0 +1,23 @@
+{
+  "name": "colors.json",
+  "description": "CSS color names JSON.",
+  "main": "colors.json",
+  "authors": [
+    "Cory Simmons"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "colors",
+    "name"
+  ],
+  "homepage": "https://github.com/corysimmons/colors.json",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,4027 @@
+{
+    "items": [
+        {
+            "start": {
+                "dateTime": "2017-05-05T11:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-04T09:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-05T19:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "Drinks: Russell Lin (russell.lin@alphacamp.co) Mukkul Dasgupta (mdasgupta@linkedin.com) Where: MY AWESOME CAFE (202 Telok Ayer St, Singapore 068639)\n",
+            "start": {
+                "dateTime": "2017-07-03T19:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "mdasgupta@linkedin.com",
+                    "displayName": "Mukkul Dasgupta",
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-03T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "andy.lee@alphacamp.co",
+                    "displayName": "andy.lee@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 91835265\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HCDC6EOLKUINAKLR\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HCDC6EOLKUINAKLR\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-03T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "alberttanmktg@gmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-05T17:00:00+08:00"
+            }
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +6598004313\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/EEGA7GK4RLTLMQAB\n\nReschedule this event:\nhttps://calendly.com/reschedulings/EEGA7GK4RLTLMQAB\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-05T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "urabummer4@hotmail.com",
+                    "displayName": "Shafiq Sha",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-06T08:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tim.du@alphacamp.tw",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "10:40-11:00  Talk w/ Tim \"Pavel scenario\"\n11:00-11:20 : E-mail Test\n11:20-11:40 : Talk w/ Russell \"ACSG\"\n\n",
+            "start": {
+                "dateTime": "2017-07-06T10:40:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "syliu1222@gmail.com",
+                    "displayName": "劉芯妤",
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-07T13:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-07T11:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-07T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-10T10:30:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-10T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 91085430\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/BGHA6HNYJ26WAVCR\n\nReschedule this event:\nhttps://calendly.com/reschedulings/BGHA6HNYJ26WAVCR\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-10T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "1sherlynn@gmail.com",
+                    "displayName": "Sherlynn Tan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 82018497\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/AFECYHSJQ4GGPN2I\n\nReschedule this event:\nhttps://calendly.com/reschedulings/AFECYHSJQ4GGPN2I\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-10T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "kelvinchowjunjie120@hotmail.com",
+                    "displayName": "Kelvin Skittles",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 81806910\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/BEEC3DV2LQ7K4F4O\n\nReschedule this event:\nhttps://calendly.com/reschedulings/BEEC3DV2LQ7K4F4O\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-12T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "nicole.anne.teo@gmail.com",
+                    "displayName": "Nicole",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 85229403\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/EAEA6EQURQ62IIMZ\n\nReschedule this event:\nhttps://calendly.com/reschedulings/EAEA6EQURQ62IIMZ\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-11T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "hongli6010@gmail.com",
+                    "displayName": "hongli guo",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 97527800\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/GGBH7FS2SUCJABXM\n\nReschedule this event:\nhttps://calendly.com/reschedulings/GGBH7FS2SUCJABXM\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-17T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "humongous-heng@hotmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-12T13:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "youchi.kuo@alphacamp.co",
+                    "displayName": "youchi.kuo@alphacamp.tw",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-12T14:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tim.du@alphacamp.tw",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-12T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Call:\nZhen Ming Ong (ongzhenming@gmail.com)\nRussell Lin (russell.lin@alphacamp.co)\nWhere: Phone (+90483914)",
+            "start": {
+                "dateTime": "2017-07-12T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "ongzhenming@gmail.com",
+                    "displayName": "Ong Zhen Ming",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 84992791\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/BHDEZAXKS6UGR7J6\n\nReschedule this event:\nhttps://calendly.com/reschedulings/BHDEZAXKS6UGR7J6\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-12T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "muhamad_haris@hotmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Jacob\n\nResume:\n\nGithub: \nhttps://github.com/Jacobshan429\n\nProject:\nhttps://bananny.co/\nhttps://www.saracares.com.tw/",
+            "start": {
+                "dateTime": "2017-07-17T19:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "tentative"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-14T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "ibednowitz@gmail.com",
+                    "displayName": "Ian B",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Office Hour with ALPHA CAMP\n\nOffice hour with ALPHA Camp\n\nLocation: Over Skype\n\nYour team (country): Singapore\n\nYour Skype ID: lannguyen2509\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/FBEB2CQLWRPWRYXX\n\nReschedule this event:\nhttps://calendly.com/reschedulings/FBEB2CQLWRPWRYXX\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-13T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "lan.nguyen.thanh@lazada.com",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Office Hour with ALPHA CAMP\n\nOffice hour with ALPHA Camp\n\nLocation: Over Skype\n\nYour team (country): Malaysia\n\nYour Skype ID: yuvha.dharshini\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/GBAH2HIUU2TCR2Z2\n\nReschedule this event:\nhttps://calendly.com/reschedulings/GBAH2HIUU2TCR2Z2\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-13T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "yuvha.dharshini@lazada.com.my",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Ralph's Skype: ra.sutacio\nRussell's Skype: russell.lin",
+            "start": {
+                "dateTime": "2017-07-14T14:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "ra.sutacio@gmail.com",
+                    "displayName": "Ralph Sutacio",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 98453794\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/CCBC4EZWLA43YLYG\n\nReschedule this event:\nhttps://calendly.com/reschedulings/CCBC4EZWLA43YLYG\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-17T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "dangoh.sg89@gmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 96362289\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/GHCE6A7UWCLMFDDR\n\nReschedule this event:\nhttps://calendly.com/reschedulings/GHCE6A7UWCLMFDDR\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-17T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "akira.monthien@gmail.com",
+                    "displayName": "Akira M",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Office Hour with ALPHA CAMP\n\nOffice hour with ALPHA Camp\n\nLocation: Over Skype\n\nYour team (country): Vietnam\n\nYour Skype ID: cyhan91\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/AEEG6EW5UDDBZL6R\n\nReschedule this event:\nhttps://calendly.com/reschedulings/AEEG6EW5UDDBZL6R\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-17T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "hang.nguyen.kim@lazada.vn",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-18T14:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-18T17:00:00+08:00"
+            }
+        },
+        {
+            "description": "Event Name: Office Hour with ALPHA CAMP\n\nOffice hour with ALPHA Camp\n\nLocation: Over Skype\n\nYour team (country): Malaysia \n\nYour Skype ID: yuvha.dharshini\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/ADCF2AYE75YQEJQW\n\nReschedule this event:\nhttps://calendly.com/reschedulings/ADCF2AYE75YQEJQW\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-18T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "yuvha.dharshini@lazada.com.my",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-19T09:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "Hi Anna, Val, and Artur,\n\nJust locking in the timing for your session this coming Wednesday.\nAs the panel discussion will start at 11.30am, would be great if you could come at 11.15am to standby.\nYou will be required to change for an access pass at the Level 1 Lobby of DAX.\n\nMy mobile is 97571782 should you need to contact me. Thanks and see you on Wednesday! ☺\n\nAddress:\nDBS Asia X (DAX)\nSandcrawler Building, Level 7\n1 Fusionopolis View, Singapore 138577\n\n(Nearest parking is at Fusionopolis One/Two)\n[Image removed by sender. http://www.dbs.com.sg/personal/enote/2017/2nd-gen-enote-to-participants/map.jpg]\n\n\nRegards,\nJamie\n\nCONFIDENTIAL NOTE:\nThe information contained in this email is intended only for the use of the individual or entity named above and may contain information that is privileged, confidential and exempt from disclosure under applicable law. If the reader of this message is not the intended recipient, you are hereby notified that any dissemination, distribution or copying of this communication is strictly prohibited. If you have received this message in error, please immediately notify the sender and delete the mail. Thank you.\n",
+            "start": {
+                "dateTime": "2017-07-19T11:15:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 98190574\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/FBCE2DZ2AJX26T4G\n\nReschedule this event:\nhttps://calendly.com/reschedulings/FBCE2DZ2AJX26T4G\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-19T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "cvnikita1@gmail.com",
+                    "displayName": "Nikita Sinhal",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-20T09:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 97202843\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/AGCG3PEEETA7WOJT\n\nReschedule this event:\nhttps://calendly.com/reschedulings/AGCG3PEEETA7WOJT\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-20T15:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "fwwei14@gmail.com",
+                    "displayName": "Wen Wei Fu",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-20T19:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "mdasgupta@linkedin.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Russell's #: +65 8514 8981",
+            "start": {
+                "dateTime": "2017-07-21T09:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "jowynne@e27.co",
+                    "displayName": "jowynne@e27.sg",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "declined"
+                },
+                {
+                    "email": "jiaway@e27.co",
+                    "displayName": "jiaway@e27.sg",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Hi there, \n\nsali.mu@alphacamp.co is inviting you to a scheduled Zoom meeting. \n\nJoin from PC, Mac, Linux, iOS or Android: https://zoom.us/j/769291264\n\n",
+            "start": {
+                "dateTime": "2017-07-21T10:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-21T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Office Hour with ALPHA CAMP\n\nOffice hour with ALPHA Camp\n\nLocation: Over Skype\n\nYour team (country): Vietnam\n\nYour Skype ID: cyhan91\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/GECDYLEA3VG6JDGC\n\nReschedule this event:\nhttps://calendly.com/reschedulings/GECDYLEA3VG6JDGC\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-21T15:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "hang.nguyen.kim@lazada.vn",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-21T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "tentative"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Office Hour with ALPHA CAMP\n\nOffice hour with ALPHA Camp\n\nLocation: Over Skype\n\nYour team (country): Group 1\n\nYour Skype ID: halim.melly\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/ACBA4H7GJAF4TB47\n\nReschedule this event:\nhttps://calendly.com/reschedulings/ACBA4H7GJAF4TB47\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-21T16:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "melly.halim@lazada.co.id",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Office Hour with ALPHA CAMP\n\nOffice hour with ALPHA Camp\n\nLocation: Over Skype\n\nYour team (country): LEAP Group 6\n\nYour Skype ID: feng.lu723\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HECD4D3AB34FJ2VK\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HECD4D3AB34FJ2VK\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-21T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "feng.lu@lazada.com",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 98418821\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/DABE5GYXTORZFDXA\n\nReschedule this event:\nhttps://calendly.com/reschedulings/DABE5GYXTORZFDXA\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-21T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "pauline_ongpf@yahoo.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 98856574\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/CHGDZC2UXBZOHMHW\n\nReschedule this event:\nhttps://calendly.com/reschedulings/CHGDZC2UXBZOHMHW\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-21T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "siying12a1@gmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Office Hour with ALPHA CAMP\n\nOffice hour with ALPHA Camp\n\nLocation: Over Skype\n\nYour team (country): Singapore\n\nYour Skype ID: lannguyen2509\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/FGDA2CYG56SWLV4V\n\nReschedule this event:\nhttps://calendly.com/reschedulings/FGDA2CYG56SWLV4V\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-21T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "lan.nguyen.thanh@lazada.com",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-26T13:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-24T14:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-24T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "andy.lee@alphacamp.co",
+                    "displayName": "andy.lee@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-24T12:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.tw",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Resume Review\n\nLocation: ALPHA CAMP\n\nCancel this event:\nhttps://calendly.com/cancellations/HHBH6NGXLQWQRNW3\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HHBH6NGXLQWQRNW3\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-26T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "lerhh@gmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.tw",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Russell's mobile: +65 8514 8981",
+            "start": {
+                "dateTime": "2017-07-24T14:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "e.ong@criteo.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 92876182\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/FAAAZKGH6QIZAG6M\n\nReschedule this event:\nhttps://calendly.com/reschedulings/FAAAZKGH6QIZAG6M\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-24T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "killian.wale@gmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 98398719\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/GFCH3IAHCFPWNZHS\n\nReschedule this event:\nhttps://calendly.com/reschedulings/GFCH3IAHCFPWNZHS\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-24T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "jaafarsemaon@gmail.com",
+                    "displayName": "Jf S",
+                    "responseStatus": "declined",
+                    "comment": "Dear, I am totally sorry and apologies that I unable to make it this coming programme. Regards, Jaafar"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 90423959\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/EBAE5AYIRO6UT562\n\nReschedule this event:\nhttps://calendly.com/reschedulings/EBAE5AYIRO6UT562\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-24T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "akanksha.thakur@yahoo.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Resume Review\n\nLocation: ALPHA CAMP\n\nCancel this event:\nhttps://calendly.com/cancellations/GAEBZIFXK36EUCHY\n\nReschedule this event:\nhttps://calendly.com/reschedulings/GAEBZIFXK36EUCHY\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-26T15:15:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tim.du@alphacamp.tw",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "niandeng@u.nus.edu",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 82006280\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HGAG7IGF4E4DVAEF\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HGAG7IGF4E4DVAEF\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-24T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "soemin989@gmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-25T13:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 93273773\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/AGDDYMBSKAOJJOBG\n\nReschedule this event:\nhttps://calendly.com/reschedulings/AGDDYMBSKAOJJOBG\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-25T14:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "cabrera.neil@gmail.com",
+                    "displayName": "Neil Cabrera",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-25T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +639177911417 or Skype is preferred ID is antachabol\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HDHB5IBPH5T67JXD\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HDHB5IBPH5T67JXD\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-25T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "nyle@yourvirtualhelp.com",
+                    "displayName": "Nyle Rigor",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 96968345\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/FEEH4OBXDPL7NOJQ\n\nReschedule this event:\nhttps://calendly.com/reschedulings/FEEH4OBXDPL7NOJQ\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-25T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "calisc@gmail.com",
+                    "displayName": "Calis Cheah",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-25T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.tw",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "youchi.kuo@alphacamp.co",
+                    "displayName": "youchi.kuo@alphacamp.tw",
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 84289559\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/CBHH7PHWBYKVBFQM\n\nReschedule this event:\nhttps://calendly.com/reschedulings/CBHH7PHWBYKVBFQM\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-25T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "meizhenwg@gmail.com",
+                    "displayName": "Wang Meizhen",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-25T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "jiaway@e27.sg",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Hi there, \n\nBernard Chan is inviting you to a scheduled Zoom meeting. \n\nTopic: Bernard Chan's Personal Meeting Room\n\nJoin from PC, Mac, Linux, iOS or Android: https://zoom.us/j/2197820803\n\nOr iPhone one-tap (US Toll):  +14157629988,,2197820803# or +16465687788,,2197820803#\n\nOr Telephone:\n    Dial: +1 415 762 9988 (US Toll) or +1 646 568 7788 (US Toll)\n    Meeting ID: 219 782 0803\n    International numbers available: https://zoom.us/zoomconference?m=QYKsELTLIGc69YBupadY_oTY5EQ4zdOs\n\n",
+            "start": {
+                "dateTime": "2017-07-26T10:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 91259816\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/CDCE5MBSZFTIEP4F\n\nReschedule this event:\nhttps://calendly.com/reschedulings/CDCE5MBSZFTIEP4F\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-26T14:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "kahyoke.ho@gmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Resume Review\n\nLocation: ALPHA CAMP\n\nCancel this event:\nhttps://calendly.com/cancellations/HBHA2LF5OJESAQKH\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HBHA2LF5OJESAQKH\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-26T15:45:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "ahmad_nurhadi@hotmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.tw",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-26T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.tw",
+                    "displayName": "Tim Du",
+                    "responseStatus": "declined"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Resume Review\n\nLocation: ALPHA CAMP\n\nCancel this event:\nhttps://calendly.com/cancellations/BCFDZJAWJZBF4ZHX\n\nReschedule this event:\nhttps://calendly.com/reschedulings/BCFDZJAWJZBF4ZHX\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-26T15:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.tw",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "starhubber81@gmail.com",
+                    "displayName": "Gerald Nah Haw Yuan",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-26T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "andyueel@gmail.com",
+                    "displayName": "Andy Lee",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Resume Review\n\nLocation: ALPHA CAMP\n\nCancel this event:\nhttps://calendly.com/cancellations/CACH7LD2DUZ5A3R2\n\nReschedule this event:\nhttps://calendly.com/reschedulings/CACH7LD2DUZ5A3R2\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-26T16:45:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tim.du@alphacamp.tw",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "reachingevan@gmail.com",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 98476021\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HCHH3KEVBMDF3HXV\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HCHH3KEVBMDF3HXV\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-26T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "sarahj.spd@gmail.com",
+                    "displayName": "Sarah J",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 98257811\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/CHCC7IG6DPR2NUKD\n\nReschedule this event:\nhttps://calendly.com/reschedulings/CHCC7IG6DPR2NUKD\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-26T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "ng.joelle@gmail.com",
+                    "displayName": "Joelle Ng",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 93877365\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HHDC6LHTMCBNXQYK\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HHDC6LHTMCBNXQYK\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-26T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "mail2sim@singnet.com.sg",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 97357515\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/ECDB2MDWM3AQ623Y\n\nReschedule this event:\nhttps://calendly.com/reschedulings/ECDB2MDWM3AQ623Y\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-26T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "lesliechia88@gmail.com",
+                    "displayName": "Leslie Chia",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-27T11:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "--\n\nCONFIDENTIALITY NOTICE: This message (including any attachments) is confidential and may be privileged. It may be read, copied and used only by the intended recipient. If you have received it in error please contact the sender (by return e-mail) immediately and delete this message. Any unauthorized use or dissemination of this message in whole or in parts is strictly prohibited.\n\nDISCLAIMER: The information contained in this email, attachment, document and/or presentation have been researched by us with due care and all and any evaluations or assessments stated herein represent our personal opinions. We advise you that some of the available information may not havebeen independently verified and may be based on statements by third persons. No representation or warranty, expressed or implied, is made as to, and no reliance should be placed on, the fairness, accuracy, completeness or correctness of this information or opinions contained herein. Certain statements contained herein may be statements of future expectations and other forward-looking statements that are based on our current personal views and assumptions and involve known and unknown risks and uncertainties that cause actual results, performance or events to differ materially from those expressed or implied in such statements. None of our team shall assume any liability whatsoever (in negligence or otherwise) for any loss howsoever arising from any use of this email, attachment and/or presentation or the statements contained herein as to unverified third person statements, any statements of future expectations and other forward-looking statements, or the fairness, accuracy, completeness or correctness of statements contained herein, or otherwise arising in connection with this email, attachment, document and/or presentation.\n",
+            "start": {
+                "dateTime": "2017-07-28T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 97530772\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/BGCE5MMIKYEGSPVK\n\nReschedule this event:\nhttps://calendly.com/reschedulings/BGCE5MMIKYEGSPVK\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-28T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "visa001@yahoo.com",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Tasks to be done\n\n- marketing (landing page, campaign)\n- content (deck and class)\n- operations (zoom, cloud 9, invite current student)\n",
+            "start": {
+                "dateTime": "2017-07-31T14:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-31T17:30:00+08:00"
+            }
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +63 9778314696\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HAHF3KPMLYH5WNMH\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HAHF3KPMLYH5WNMH\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-31T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "reanraynera@gmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +6597847427\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HGBAZKKNYZRICCBE\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HGBAZKKNYZRICCBE\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-07-31T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "ruben.arunasalam@gmail.com",
+                    "displayName": "Ruben Arunasalam",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Russell to call Preethika at +65 9793 5099",
+            "start": {
+                "dateTime": "2017-08-01T14:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "mspreethika@gmail.com",
+                    "displayName": "Preethika Sankarlal",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-02T14:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-02T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "andy.lee@alphacamp.co",
+                    "displayName": "andy.lee@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-04T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.tw",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 93840603\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/EDHD6PJ37434CRD2\n\nReschedule this event:\nhttps://calendly.com/reschedulings/EDHD6PJ37434CRD2\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-08T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "isolatingbeats@gmail.com",
+                    "displayName": "Huda A.",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 92305370\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HHHB7OQHF6C4HENM\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HHHB7OQHF6C4HENM\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-03T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "jsio001@e.ntu.edu.sg",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Meeting:\nDaniel Lee (daniel.lee@cognizant.com)\nLim Binghong (Lim.Binghong@cognizant.com)\nJoei Tay (Joei.Tay@cognizant.com)\nRussell Lin (russell.lin@alphacamp.co)",
+            "start": {
+                "dateTime": "2017-08-03T10:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-03T11:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "andy.lee@alphacamp.co",
+                    "displayName": "andy.lee@alphacamp.tw",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Dang The Hoai Nam's Skype ID: dangthehoainam\nRussell's Skype ID: russell.lin",
+            "start": {
+                "dateTime": "2017-08-03T14:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "namproctin@gmail.com",
+                    "displayName": "Đặng Thế Hoài Nam",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Call:\nXian Rong Rong (thay.xian.rong@gmail.com)\nRussell Lin (russell.lin@alphacamp.co)\nWhere: Thay Xian to provide contact details",
+            "start": {
+                "dateTime": "2017-08-03T14:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "thay.xian.rong@gmail.com",
+                    "displayName": "Xian Rong Thay",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Russell to call Ming Hao at +6016-2128569",
+            "start": {
+                "dateTime": "2017-08-03T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "cmh114933@gmail.com",
+                    "displayName": "Ming Hao Chan",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-04T13:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "sam@samwitteveen.com",
+                    "displayName": "Sam Witteveen",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-07T13:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "mspreethika@gmail.com",
+                    "displayName": "Preethika Sankarlal",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Hi there, \n\nBernard Chan is inviting you to a scheduled Zoom meeting. \n\nTopic: Bernard Chan's Personal Meeting Room\n\nJoin from PC, Mac, Linux, iOS or Android: https://zoom.us/j/2197820803\n\nOr iPhone one-tap (US Toll):  +14157629988,,2197820803# or +16465687788,,2197820803#\n\nOr Telephone:\n    Dial: +1 415 762 9988 (US Toll) or +1 646 568 7788 (US Toll)\n    Meeting ID: 219 782 0803\n    International numbers available: https://zoom.us/zoomconference?m=QYKsELTLIGc69YBupadY_oTY5EQ4zdOs\n\n",
+            "start": {
+                "dateTime": "2017-08-07T17:20:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.tw",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 84189011\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/DAFA6IOYMZFT3LZB\n\nReschedule this event:\nhttps://calendly.com/reschedulings/DAFA6IOYMZFT3LZB\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-07T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "derrickloo79@gmail.com",
+                    "displayName": "Derrick Loo",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Cloud9 Ruby on Rails class \n20:00 - 21:00 (class time)",
+            "start": {
+                "dateTime": "2017-08-07T19:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Hi there, \n\ninfo@alphacamp.co is inviting you to a scheduled Zoom meeting. \n\nJoin from PC, Mac, Linux, iOS or Android: https://zoom.us/j/576677239\n\nOr iPhone one-tap (US Toll):  +16465588656,,576677239# or +14086380968,,576677239#\n\nOr Telephone:\n    Dial: +1 646 558 8656 (US Toll) or +1 408 638 0968 (US Toll)\n    Meeting ID: 576 677 239\n    International numbers available: https://zoom.us/zoomconference?m=lj0_fMSus7G9KGYG-Hfrdd76NtUtxewq\n\n",
+            "start": {
+                "dateTime": "2017-08-07T20:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-08T11:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tim.du@alphacamp.tw",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "amanda.lee@singex.com",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Hi Russell, Please Whatsapp me at +65 829 010 29 if you have any difficulty in coming up to level 42 at MBFC Tower 2. Look forward to meeting you tomorrow. Cheers, \nEsther ",
+            "start": {
+                "dateTime": "2017-08-08T14:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "estwang@sg.ibm.com",
+                    "displayName": "Esther YL Wang/Singapore/IBM",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-08T14:00:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-08T16:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "oswaldyeo@gmail.com",
+                    "displayName": "Oswald Yeo",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 81613096\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/FEHB6PQRDEOQ4CE7\n\nReschedule this event:\nhttps://calendly.com/reschedulings/FEHB6PQRDEOQ4CE7\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-08T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "stephaniewong796@gmail.com",
+                    "displayName": "Stephanie Wong",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-10T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "lotte.scheffer@lazada.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-11T10:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-11T10:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "max.tiong@income.com.sg",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "bernard.chan@alphacamp.tw",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-11T19:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +6598760474\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/EAAG6I2LNY5467FQ\n\nReschedule this event:\nhttps://calendly.com/reschedulings/EAAG6I2LNY5467FQ\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-14T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "seliyan12@hotmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-04-18T10:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-19T10:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-20T10:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-07-26T10:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "declined"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-03T13:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-09T10:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-16T13:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "andy.lee@alphacamp.co",
+                    "displayName": "andy.lee@alphacamp.tw",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-16T14:00:00+08:00"
+            }
+        },
+        {
+            "description": "Hi there, \n\nRussell Lin is inviting you to a scheduled Zoom meeting. \n\nTopic: Russell Lin's Personal Meeting Room\n\nJoin from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8338428247\n\nOr iPhone one-tap (US Toll):  +14157629988,,8338428247# or +16465687788,,8338428247#\n\nOr Telephone:\n    Dial: +1 415 762 9988 (US Toll) or +1 646 568 7788 (US Toll)\n    Meeting ID: 833 842 8247\n    International numbers available: https://zoom.us/zoomconference?m=ywLKvvFhPAluiYeVmDgxyri73SDpRZ6D\n\n",
+            "start": {
+                "dateTime": "2017-08-16T15:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 9627 1361\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/EDFD2O4SYDOG4AXR\n\nReschedule this event:\nhttps://calendly.com/reschedulings/EDFD2O4SYDOG4AXR\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-16T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "wu.dani@gmail.com",
+                    "displayName": "Dani Wu",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-16T16:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell@glints.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-26T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-17T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-17T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "andy.lee@alphacamp.co",
+                    "displayName": "andy.lee@alphacamp.tw",
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "V-Room Singapore - Biggest VR Arcade in Singapore\nhttps://v-room.sg/\n",
+            "start": {
+                "dateTime": "2017-08-23T20:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 86548438\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HGCE4K6XGFC5I2IJ\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HGCE4K6XGFC5I2IJ\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-17T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "elysia.har@gmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-17T19:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-18T18:30:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-23T10:00:00+08:00"
+            }
+        },
+        {
+            "description": "Hi there, \n\nRussell Lin is inviting you to a scheduled Zoom meeting. \n\nTopic: Russell Lin's Personal Meeting Room\n\nJoin from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8338428247\n\nOr iPhone one-tap (US Toll):  +14157629988,,8338428247# or +16465687788,,8338428247#\n\nOr Telephone:\n    Dial: +1 415 762 9988 (US Toll) or +1 646 568 7788 (US Toll)\n    Meeting ID: 833 842 8247\n    International numbers available: https://zoom.us/zoomconference?m=ywLKvvFhPAluiYeVmDgxyri73SDpRZ6D\n\n",
+            "start": {
+                "dateTime": "2017-08-22T10:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "max.tiong@income.com.sg",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Office Hour with ALPHA CAMP\n\nOffice hour with ALPHA Camp\n\nLocation: Over Skype\n\nYour team (country): Singapore\n\nYour Skype ID: lannguyen2509\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HFBF5RBXW5SDUIOG\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HFBF5RBXW5SDUIOG\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-23T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "lan.nguyen.thanh@lazada.com",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +6591668773\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/BFHE3MZITAE7FCTT\n\nReschedule this event:\nhttps://calendly.com/reschedulings/BFHE3MZITAE7FCTT\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-21T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "austenacg@gmail.com",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +6281231610000\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/AEBF2N7UP3CFRXL3\n\nReschedule this event:\nhttps://calendly.com/reschedulings/AEBF2N7UP3CFRXL3\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-21T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "charissajanto@gmail.com",
+                    "displayName": "Charissa Janto",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Office Hour with ALPHA CAMP\n\nOffice hour with ALPHA Camp\n\nLocation: Over Skype\n\nYour team (country): 6 (SG)\n\nYour Skype ID: feng.lu723\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/ECBH2UGK2EYIFQV2\n\nReschedule this event:\nhttps://calendly.com/reschedulings/ECBH2UGK2EYIFQV2\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-23T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "feng.lu@lazada.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "From Jacky\n---\nSome additional info for your heads-up to the meeting:\n \n- like to hear views on how to grow more products and tech companies in Singapore.\n- When we talk about product development, like to umderstand what makes a good product and how it is being built.  For example, product management, how to build a product and importance of UX and UI, security by design, research, testing, etc…\n- From project point of view, or on the job training – what is the most useful is application at work, how and what is implemented by your company?",
+            "start": {
+                "dateTime": "2017-08-22T14:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-22T14:00:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-22T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "jackyhwong91@gmail.com",
+                    "displayName": "Jack Wong",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Office Hour with ALPHA CAMP\n\nOffice hour with ALPHA Camp\n\nLocation: Over Skype\n\nYour team (country): Group 1\n\nYour Skype ID: halim.melly\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/GCGHZQCS5NJFY5N4\n\nReschedule this event:\nhttps://calendly.com/reschedulings/GCGHZQCS5NJFY5N4\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-22T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "melly.halim@lazada.co.id",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +6591668773\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/FGGBYTCSMO6HBDN7\n\nReschedule this event:\nhttps://calendly.com/reschedulings/FGGBYTCSMO6HBDN7\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-22T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "austenacg@gmail.com",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 92775267\n\n\n\nCancellation Reason:\nRescheduled\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-22T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "huixintan91@gmail.com",
+                    "displayName": "Huixin Tan",
+                    "responseStatus": "declined"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-22T16:00:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-23T15:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Russell (M) +65 8514 8981",
+            "start": {
+                "dateTime": "2017-08-23T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "karl@sgag.sg",
+                    "displayName": "Karl Mak",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-28T16:00:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-24T16:30:00+08:00"
+            }
+        },
+        {
+            "description": "Event Name: Office Hour with ALPHA CAMP\n\nOffice hour with ALPHA Camp\n\nLocation: Over Skype\n\nYour team (country): VN\n\nYour Skype ID: cyhan91\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HEDE5REX2F7AG4ZI\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HEDE5REX2F7AG4ZI\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-24T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "hang.nguyen.kim@lazada.vn",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-24T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "andy.lee@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Office Hour with ALPHA CAMP\n\nOffice hour with ALPHA Camp\n\nLocation: Over Skype\n\nYour team (country): Malaysia\n\nYour Skype ID: yuvha.dharshini\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/EGHFYRBGH7CBHZEY\n\nReschedule this event:\nhttps://calendly.com/reschedulings/EGHFYRBGH7CBHZEY\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-24T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "yuvha.dharshini@lazada.com.my",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 97262356\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/CCBA3WCEB4BTO3KU\n\nReschedule this event:\nhttps://calendly.com/reschedulings/CCBA3WCEB4BTO3KU\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-24T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "raegertay89@gmail.com",
+                    "displayName": "Raeger Tay",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-08-24T19:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "I will share the insight from SG B2B research. If you have time, welcome to join =)",
+            "start": {
+                "dateTime": "2017-08-25T16:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-10-13T11:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tim.du@alphacamp.tw",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "ryan@iii.org.tw",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 91700372\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/DAEBZWGO6DPCOFAD\n\nReschedule this event:\nhttps://calendly.com/reschedulings/DAEBZWGO6DPCOFAD\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-28T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "gloriasoh553@hotmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 92775267\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/BDDD4UE2XUQS7ZKU\n\nReschedule this event:\nhttps://calendly.com/reschedulings/BDDD4UE2XUQS7ZKU\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-28T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "huixintan91@gmail.com",
+                    "displayName": "Huixin Tan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 9168771932\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/EDHCZWEP7HIBPB62\n\nReschedule this event:\nhttps://calendly.com/reschedulings/EDHCZWEP7HIBPB62\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-29T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "changchi.hsu84@gmail.com",
+                    "displayName": "Chang Chi Hsu",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 97496884\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/EEEA4TP2PIK6G2EU\n\nReschedule this event:\nhttps://calendly.com/reschedulings/EEEA4TP2PIK6G2EU\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-29T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "niconishnot@yahoo.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: Jonthtang (Skype)\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/ECCFYUHZXIBGGE3Y\n\nReschedule this event:\nhttps://calendly.com/reschedulings/ECCFYUHZXIBGGE3Y\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-29T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "jonthtang@gmail.com",
+                    "displayName": "Jonathan Tang",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Russell's Skype ID: russell.lin\nIan's SkypeID: ian.tay.z",
+            "start": {
+                "dateTime": "2017-08-30T14:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "dawn@xiaoxiao.media",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "ian@xiaoxiao.media",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Call:\nRussell Lin (russell.lin@alphacamp.co)\nTim Du (tim.du@alphacamp.co)\nApoorvi Patodia (apoorvi@thehub.sg)",
+            "start": {
+                "dateTime": "2017-08-30T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "apoorvi@thehub.sg",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "optional": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "ALPHA Camp's #: +6594575586\nPali IT's #: +6562209908\n",
+            "start": {
+                "dateTime": "2017-08-30T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "jdourcy@palo-it.com",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "npeng@palo-it.com",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Hi there, \n\nRussell Lin is inviting you to a scheduled Zoom meeting. \n\nTopic: Russell Lin's Personal Meeting Room\n\nJoin from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8338428247\n\nOr iPhone one-tap :\n    US: +14157629988,,8338428247#  or +16465687788,,8338428247# \nOr Telephone：\n    Dial(for higher quality, dial a number based on your current location)：\n        US: +1 415 762 9988  or +1 646 568 7788 \n    Meeting ID: 833 842 8247\n    International numbers available: https://zoom.us/zoomconference?m=ywLKvvFhPAluiYeVmDgxyri73SDpRZ6D\n\n",
+            "start": {
+                "dateTime": "2017-08-31T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +66655842952\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/BBBB5SSF55CROIBX\n\nReschedule this event:\nhttps://calendly.com/reschedulings/BBBB5SSF55CROIBX\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-08-31T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "fay.boonyajaroen@gmail.com",
+                    "displayName": "Fay Boonyajaroen",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-07T11:30:00+08:00"
+            }
+        },
+        {
+            "description": "Hi there, \n\nZhang Yi is inviting you to a scheduled Zoom meeting. \n\nJoin from PC, Mac, Linux, iOS or Android: https://zoom.us/j/652799478\n\nOr iPhone one-tap :\n    US: +14157629988,,652799478#  or +16465687788,,652799478# \nOr Telephone：\n    Dial(for higher quality, dial a number based on your current location)：\n        US: +1 415 762 9988  or +1 646 568 7788 \n    Meeting ID: 652 799 478\n    International numbers available: https://zoom.us/zoomconference?m=3WORjerMylBLMUEmqcqZ_aVrJVQ2ybg9\n\n",
+            "start": {
+                "dateTime": "2017-09-12T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 91726326\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/BGHDZSS6WKEAJNN6\n\nReschedule this event:\nhttps://calendly.com/reschedulings/BGHDZSS6WKEAJNN6\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-04T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "francesjane@icloud.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 91875724\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/EBAG7WSW6NNT24CE\n\nReschedule this event:\nhttps://calendly.com/reschedulings/EBAG7WSW6NNT24CE\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-04T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "lincoln3010@gmail.com",
+                    "displayName": "Lincoln Anthony Fernandez",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 86946086\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/GABH5WW5NHKRO5QD\n\nReschedule this event:\nhttps://calendly.com/reschedulings/GABH5WW5NHKRO5QD\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-04T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "jlliao@u.yale-nus.edu.sg",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Call:\nRussell Lin (russell.lin@alphacamp.co)\nBernard Chan (bernard.chan@alphacamp.co)\nTim Du (tim.du@alphacamp.co)\nVirginia Yang (virginia@mimetic.ai)\nWhere: Conference (Whatsapp: +65 8168 1957)",
+            "start": {
+                "dateTime": "2017-09-05T15:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Hi there, \n\nBernard Chan is inviting you to a scheduled Zoom meeting. \n\nTopic: Intro: Hadi & AC\n\nJoin from PC, Mac, Linux, iOS or Android: https://zoom.us/j/2197820803\n\nOr iPhone one-tap :\n    US: +14157629988,,2197820803#  or +16465687788,,2197820803# \nOr Telephone：\n    Dial(for higher quality, dial a number based on your current location)：\n        US: +1 415 762 9988  or +1 646 568 7788 \n    Meeting ID: 219 782 0803\n    International numbers available: https://zoom.us/zoomconference?m=QYKsELTLIGc69YBupadY_oTY5EQ4zdOs\n\n",
+            "start": {
+                "dateTime": "2017-09-05T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "optional": true,
+                    "responseStatus": "tentative"
+                },
+                {
+                    "email": "ammarudinhadi@gmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "bernard.chan@alphacamp.tw",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 84976895\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/CDHF5XT6IVY36P56\n\nReschedule this event:\nhttps://calendly.com/reschedulings/CDHF5XT6IVY36P56\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-05T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "aphuongle95@gmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 83994800\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/FBDFYVU4GYWXFVWP\n\nReschedule this event:\nhttps://calendly.com/reschedulings/FBDFYVU4GYWXFVWP\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-05T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "kennethtehwenjun@gmail.com",
+                    "displayName": "Kenneth Teh",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-06T11:45:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +65 94598400\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HDCGYST6NJ5UZKER\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HDCGYST6NJ5UZKER\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-06T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "kizhiseeri@yahoo.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 85419710\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/ECBB3RS6YSJ3QS2B\n\nReschedule this event:\nhttps://calendly.com/reschedulings/ECBB3RS6YSJ3QS2B\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-06T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "blueswifter@hotmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-06T19:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "stanley@sgag.sg",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "yingcong@glints.com",
+                    "responseStatus": "tentative"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-07T19:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "virginia@mimetic.ai",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-07T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "martin.verdejo@tinkerbox.com.sg",
+                    "displayName": "Martin Verdejo",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +65 9423 9853\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/FBCF5WYP72VOLAN3\n\nReschedule this event:\nhttps://calendly.com/reschedulings/FBCF5WYP72VOLAN3\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-07T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "limxuanping@gmail.com",
+                    "displayName": "Xuan Ping Lim",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 97952519\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/BGDFZV6OGIYUDEPX\n\nReschedule this event:\nhttps://calendly.com/reschedulings/BGDFZV6OGIYUDEPX\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-07T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "doidyboy@gmail.com",
+                    "displayName": "Zhou Yansheng",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-08T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Hi there, \n\nRussell Lin is inviting you to a scheduled Zoom meeting. \n\nTopic: Russell Lin's Personal Meeting Room\n\nJoin from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8338428247\n\nOr iPhone one-tap :\n    US: +14157629988,,8338428247#  or +16465687788,,8338428247# \nOr Telephone：\n    Dial(for higher quality, dial a number based on your current location)：\n        US: +1 415 762 9988  or +1 646 568 7788 \n    Meeting ID: 833 842 8247\n    International numbers available: https://zoom.us/zoomconference?m=ywLKvvFhPAluiYeVmDgxyri73SDpRZ6D\n\n",
+            "start": {
+                "dateTime": "2017-09-11T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-11T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "imelda@wantedly.com",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 96677847\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/HGEA5V65QE5D7BNU\n\nReschedule this event:\nhttps://calendly.com/reschedulings/HGEA5V65QE5D7BNU\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-11T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tamtann@outlook.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-12T15:30:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-12T13:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 93659222\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/DFDC7WYOLTX7JGD4\n\nReschedule this event:\nhttps://calendly.com/reschedulings/DFDC7WYOLTX7JGD4\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-12T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "albert.ho@u.nus.edu",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-14T13:00:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-13T13:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.tw",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-13T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-13T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "ammarudinhadi@gmail.com",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Call:\nRussell Lin (russell.lin@alphacamp.co)\nBernard Chan (bernard.chan@alphacamp.co)\nTim Du (tim.du@alphacamp.co)\nJoe Zhang (joe.zhang@alphacamp.co)\nVirginia Yang (virginia@mimetic.ai)\nWhere: Skype: russell.lin, viyang",
+            "start": {
+                "dateTime": "2017-09-14T19:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-15T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "tim.du@alphacamp.tw",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 96508416\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/GHDD47OENVEMEI64\n\nReschedule this event:\nhttps://calendly.com/reschedulings/GHDD47OENVEMEI64\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-18T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "junaidahm.kamal@gmail.com",
+                    "displayName": "Junaidah Mustafa Kamal",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-18T10:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 94245168\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/CEGF34C4UYRXE5XQ\n\nReschedule this event:\nhttps://calendly.com/reschedulings/CEGF34C4UYRXE5XQ\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-18T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "josh.studyin9@gmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +6597238805\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/FBCD75MH2G6P7XNN\n\nReschedule this event:\nhttps://calendly.com/reschedulings/FBCD75MH2G6P7XNN\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-18T17:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "m.mohd.azhar@gmail.com",
+                    "displayName": "Mohd Azhar",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 81335744\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/EFDFYTR4OQOLZUD4\n\nReschedule this event:\nhttps://calendly.com/reschedulings/EFDFYTR4OQOLZUD4\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-18T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "mfahmifirdaus@live.com",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-19T11:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "jowynne@e27.sg",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-19T11:00:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-19T14:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-19T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-20T12:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "joe.zhang@alphacamp.co",
+                    "displayName": "joe.zhang@alphacamp.tw",
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +6591668773\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/DGGG44LRJC5FQGA3\n\nReschedule this event:\nhttps://calendly.com/reschedulings/DGGG44LRJC5FQGA3\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-21T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "austenacg@gmail.com",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: +65-93832433\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/CEFA2ZKW3FSML7OC\n\nReschedule this event:\nhttps://calendly.com/reschedulings/CEFA2ZKW3FSML7OC\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-20T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "narendernathb@hotmail.com",
+                    "displayName": "Baskar Narendernath",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-20T10:30:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-20T13:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "bernard.chan@alphacamp.tw",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-20T14:30:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-20T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "gohdaniel15@gmail.com",
+                    "displayName": "Daniel Goh",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "tim.du@alphacamp.tw",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-20T16:30:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-28T11:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-21T16:15:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "paulsr@sg.ibm.com",
+                    "displayName": "Paul Selva Raj/Singapore/IBM",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "estwang@sg.ibm.com",
+                    "displayName": "Esther YL Wang/Singapore/IBM",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 87499946\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/FFEEZXWWRHTUZ6WN\n\nReschedule this event:\nhttps://calendly.com/reschedulings/FFEEZXWWRHTUZ6WN\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-21T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "nycerst@gmail.com",
+                    "displayName": "N Khai AK",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-21T20:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "zoetble@gmail.com",
+                    "displayName": "Zoe Le",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-21T20:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "samputnam130@gmail.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-22T10:00:00+08:00"
+            }
+        },
+        {
+            "description": "Hi there, \n\nRussell Lin is inviting you to a scheduled Zoom meeting. \n\nTopic: Russell Lin's Personal Meeting Room\n\nJoin from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8338428247\n\nOr iPhone one-tap :\n    US: +16699006833,,8338428247#  or +16468769923,,8338428247# \nOr Telephone：\n    Dial(for higher quality, dial a number based on your current location)：\n        US: +1 669 900 6833  or +1 646 876 9923 \n    Meeting ID: 833 842 8247\n    International numbers available: https://zoom.us/zoomconference?m=ywLKvvFhPAluiYeVmDgxyri73SDpRZ6D\n\n",
+            "start": {
+                "dateTime": "2017-09-22T14:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "peterchencc@gmail.com",
+                    "displayName": "Yung-Te Chen",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Participant list: https://alphacamp.slack.com/files/U4HRVT15M/F730E78RG/alpha_camp",
+            "start": {
+                "dateTime": "2017-09-22T12:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-09-22T19:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "martin.verdejo@tinkerbox.com.sg",
+                    "displayName": "Martin Verdejo",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 96508416\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/ECBD57ODTAZMURQ7\n\nReschedule this event:\nhttps://calendly.com/reschedulings/ECBD57ODTAZMURQ7\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-19T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "junaidahm.kamal@gmail.com",
+                    "displayName": "Junaidah Mustafa Kamal",
+                    "responseStatus": "declined"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 6591791674\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/GGFH63WIZLLLIG6R\n\nReschedule this event:\nhttps://calendly.com/reschedulings/GGFH63WIZLLLIG6R\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-09-25T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "shomiurasho@gmail.com",
+                    "displayName": "Sho Miura",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 6591791674\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/EAAG57SL3WQP2NMO\n\nReschedule this event:\nhttps://calendly.com/reschedulings/EAAG57SL3WQP2NMO\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-10-03T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "shomiurasho@gmail.com",
+                    "displayName": "Sho Miura",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Hi there, \n\nBernard Chan is inviting you to a scheduled Zoom meeting. \n\nJoin from PC, Mac, Linux, iOS or Android: https://zoom.us/j/804869719\n\nOr iPhone one-tap (US Toll):  +16465687788,804869719# or +14157629988,804869719#\n\nOr Telephone:\n    Dial: +1 646 568 7788 (US Toll) or +1 415 762 9988 (US Toll)\n    Meeting ID: 804 869 719\n    International numbers available: https://zoom.us/zoomconference?m=mtjptgQ4TG1gX0XQLQaI_hP3-t34FYcb\n\n",
+            "start": {
+                "dateTime": "2017-06-20T15:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.tw",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "youchi.kuo@alphacamp.co",
+                    "displayName": "youchi.kuo@alphacamp.tw",
+                    "optional": true,
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-10-13T10:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-10-02T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "milisemlani@gmail.com",
+                    "displayName": "Mili Semlani",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 91727227\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/CAFE66YUSCJW333Y\n\nReschedule this event:\nhttps://calendly.com/reschedulings/CAFE66YUSCJW333Y\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-10-02T18:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "wdygoh@singnet.com.sg",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Event Name: Interview with ALPHA Camp\n\nLocation: We will call you\n\nPhone number we can reach you: 81235577\n\n\n\nCancel this event:\nhttps://calendly.com/cancellations/GHDE543Q4HDPPXJW\n\nReschedule this event:\nhttps://calendly.com/reschedulings/GHDE543Q4HDPPXJW\n\n\nPowered by Calendly\ncalendly.com",
+            "start": {
+                "dateTime": "2017-10-05T18:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "lowjj@outlook.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Join me now in my Personal Room.\n\nJoin WebEx meeting\nhttps://cognizantcorp.webex.com/join/daniel.lee | 591 076 186\n\nJoin by phone\n*111 / 810111 Speed dial from VNET/Skype (recommended)\n+1-844-666-8111 United States Toll Free\n+1-404-800-2111 United States Toll\n+44 (0) 208-494-9111 United Kingdom Toll\n+44 (0) 800-096-6672 United Kingdom Toll Free\n1800-3010-5400 India Toll Free\n\nMeeting Access Code | 591 076 186\nGlobal call-in numbers <https://cognizantcorp.webex.com/cognizantcorp/globalcallin.php> | Toll-free calling restrictions<https://www.webex.com/pdf/tollfree_restrictions.pdf>\nCan't join the meeting? Contact support.<https://gsd.cognizant.com>\n\n\n\n\n_____________________________________________\nFrom: Lee, Daniel (Cognizant)\nSent: Thursday, September 28, 2017 4:37 PM\nTo: 'Russell Lin' <russell.lin@alphacamp.co<mailto:russell.lin@alphacamp.co>>\nCc: Lim, Binghong (Cognizant) <Lim.Binghong@cognizant.com<mailto:Lim.Binghong@cognizant.com>>; Tay, Joei (Cognizant) <Joei.Tay@cognizant.com<mailto:Joei.Tay@cognizant.com>>; Tim Du <tim.du@alphacamp.co<mailto:tim.du@alphacamp.co>>\nSubject: RE: Hello from Russell (ALPHA Camp)\n\n\nHi Russell\n\nLet’s catch up tomorrow after 3pm if possible and discuss further for the date of 20th Oct 2017.\n\nI will send you a calendar invite for our quick catch up.  Do propose a different timing should you not be available for our catch up.\n\nThanks\n\nRegards\n\nDan\n\nFrom: Russell Lin [mailto:russell.lin@alphacamp.co]\nSent: Tuesday, September 26, 2017 4:31 PM\nTo: Lee, Daniel (Cognizant) <DANIEL.LEE@cognizant.com<mailto:DANIEL.LEE@cognizant.com>>\nCc: Lim, Binghong (Cognizant) <Lim.Binghong@cognizant.com<mailto:Lim.Binghong@cognizant.com>>; Tay, Joei (Cognizant) <Joei.Tay@cognizant.com<mailto:Joei.Tay@cognizant.com>>; Tim Du <tim.du@alphacamp.co<mailto:tim.du@alphacamp.co>>\nSubject: Re: Hello from Russell (ALPHA Camp)\n\nHi Daniel,\n\nThanks for getting back. How about:\n•       20-Oct, 10:30am, or\n•       27-Oct, 1:30pm\n[http://t.sidekickopen69.com/e1t/o/5/f18dQhb0S7ks8dDMPbW2n0x6l2B9gXrN7sKj6v4Lz0KW1pgFwx5v_YVxW1p1xCg2zlZNzW7FhYmS1k1H6H0?si=6034448911040512&pi=c56dd9bf-6a12-46a2-d7a4-f7cae3422bb6&ti=undefined]\n\n\nALPHA Camp Developing Asia's Best Tech and Startup Talents\nsg.alphacamp.co<http://sg.alphacamp.co>\nwww.facebook.com/alphacampsg<https://www.facebook.com/alphacampsg>\n\nOn Tue, Sep 26, 2017 at 2:41 PM, <DANIEL.LEE@cognizant.com<mailto:DANIEL.LEE@cognizant.com>> wrote:\n\nHi Russell\n\nUnfortunately we have an event with SIM on the 6th October, could you provide us alterative dates please?\n\nThanks\n\nRegards\n\nDan\n\n\nFrom: Russell Lin [mailto:russell.lin@alphacamp.co<mailto:russell.lin@alphacamp.co>]\nSent: Friday, September 22, 2017 5:04 PM\n\nTo: Lee, Daniel (Cognizant) <DANIEL.LEE@cognizant.com<mailto:DANIEL.LEE@cognizant.com>>\nCc: Lim, Binghong (Cognizant) <Lim.Binghong@cognizant.com<mailto:Lim.Binghong@cognizant.com>>; Tay, Joei (Cognizant) <Joei.Tay@cognizant.com<mailto:Joei.Tay@cognizant.com>>; Tim Du <tim.du@alphacamp.co<mailto:tim.du@alphacamp.co>>\nSubject: Re: Hello from Russell (ALPHA Camp)\n\nHi Daniel,\n\nWant to let you know that we've just scheduled our students for an event on 13-Oct. As such, we have tentatively reserved 6-Oct for a sharing session with Cognizant, will that work? Let us know, thanks!\n\nBest,\n\nRussell\n\nALPHA Camp Developing Asia's Best Tech and Startup Talents\n\nsg.alphacamp.co<http://sg.alphacamp.co>\n\nwww.facebook.com/alphacampsg<https://www.facebook.com/alphacampsg>\n\nOn Mon, Sep 18, 2017 at 2:59 PM, <DANIEL.LEE@cognizant.com<mailto:DANIEL.LEE@cognizant.com>> wrote:\n\nHi Russell\n\nSorry for my late reply as we’ve been busy with numerous campus events.  Thanks for sharing the attendees’ profile.\n\nLet me get back to you by Wednesday to confirm the dates.\n\nThanks\n\nRegards\n\n\n\n <http://www.cognizant.com/>    Daniel Lee | Associate Director, APAC Campus Recruitment\nm. +65 92386142\nt. +65 6324 6672<tel:+65%206324%206672>\n80 Anson Road, #27<https://maps.google.com/?q=80+Anson+Road,+%2327&entry=gmail&source=g>-02/03 Fuji Xerox Towers, Singapore 079907\ndaniel.lee@cognizant.com<mailto:daniel.lee@cognizant.com> | www.cognizant.com<http://www.cognizant.com/>\n         <https://facebook.com/Cognizant>  <https://linkedin.com/company/cognizant>  <https://twitter.com/cognizant>  <http://youtube.com/cognizant>\n\nFrom: Russell Lin [mailto:russell.lin@alphacamp.co<mailto:russell.lin@alphacamp.co>]\nSent: Thursday, September 14, 2017 3:05 PM\nTo: Lee, Daniel (Cognizant) <DANIEL.LEE@cognizant.com<mailto:DANIEL.LEE@cognizant.com>>\nCc: Lim, Binghong (Cognizant) <Lim.Binghong@cognizant.com<mailto:Lim.Binghong@cognizant.com>>; Tay, Joei (Cognizant) <Joei.Tay@cognizant.com<mailto:Joei.Tay@cognizant.com>>; Tim Du <tim.du@alphacamp.co<mailto:tim.du@alphacamp.co>>\nSubject: Re: Hello from Russell (ALPHA Camp)\n\nHi Daniel,\n\nHope you've been well. I'm attaching our a compilation of our August intake's student profile. We'll be kicking off another web development class in a couple of weeks (~10 students) - will send along a compilation of their profile once it's ready.\n\nBy the way, 6-Oct or 13-Oct still good for a sharing session with Cognizant?\n\nBest,\n\nRussell\n\nOn Tue, Aug 29, 2017 at 11:46 AM, Russell Lin <russell.lin@alphacamp.co<mailto:russell.lin@alphacamp.co>> wrote:\n\nDaniel,\n\nSounds good, I'll have our programme manager tentatively book 6-Oct and 13-Oct for a session with Cognizant. We can confirm the actual date/time as we get closer to the date.\n\nBest,\n\nRussell\n\nOn Tue, Aug 29, 2017 at 10:57 AM, <DANIEL.LEE@cognizant.com<mailto:DANIEL.LEE@cognizant.com>> wrote:\n\nHi Russell\n\nNot a problem, happy to come to your office and network with your students.  We will need to work out the date for this invite, I’m skewing towards 1st or 2nd week of October.    As for sharing by our developer, he/she can give examples and guide on how their career have transform based on the project deliverables and the needs from the team perspective.\n\nRegards\n\n\n\n <http://www.cognizant.com/>    Daniel Lee | Associate Director, APAC Campus Recruitment\nm. +65 92386142\nt. +65 6324 6672<tel:+65%206324%206672>\n80 Anson Road, #27<https://maps.google.com/?q=80+Anson+Road,+%2327&entry=gmail&source=g>-02/03 Fuji Xerox Towers, Singapore 079907\ndaniel.lee@cognizant.com<mailto:daniel.lee@cognizant.com> | www.cognizant.com<http://www.cognizant.com/>\n         <https://facebook.com/Cognizant>  <https://linkedin.com/company/cognizant>  <https://twitter.com/cognizant>  <http://youtube.com/cognizant>\n\nFrom: Russell Lin [mailto:russell.lin@alphacamp.co<mailto:russell.lin@alphacamp.co>]\nSent: Monday, August 28, 2017 7:40 PM\nTo: Lee, Daniel (Cognizant) <DANIEL.LEE@cognizant.com<mailto:DANIEL.LEE@cognizant.com>>\nCc: Lim, Binghong (Cognizant) <Lim.Binghong@cognizant.com<mailto:Lim.Binghong@cognizant.com>>; Tay, Joei (Cognizant) <Joei.Tay@cognizant.com<mailto:Joei.Tay@cognizant.com>>; Tim Du <tim.du@alphacamp.co<mailto:tim.du@alphacamp.co>>\nSubject: Re: Hello from Russell (ALPHA Camp)\n\nHi Daniel,\n\nApologies for the delayed response, last week was quite hectic. It would be great if you can host a session with our current students, they can really benefit from the following topics:\n•       Overview of Cognizant's global business, businesses/priorities in SEA and people/culture in Singapore\n•       Role of a developer at Cognizant and project sharing by a developer (preferably a web developer)\n•       Tips on recruiting preparation in general and using Cognizant's recruiting process as an example\n\nWe would love to have you and your team conduct the session at our office/campus<https://www.google.com.sg/maps/place/43+Tg+Pagar+Rd,+Singapore+088464/@1.2789557,103.8418162,17z/data=!3m1!4b1!4m5!3m4!1s0x31da196d45c1e3ed:0x43f222a864a0517c!8m2!3d1.2789557!4d103.8440049> (next to Maxwell Food Centre, 10 mins from you) - it would also give you an opportunity to meet and have some more in-depth conversations with Shafiq (zoo keeper) and our other students (hip hop dancing instructor, pharmacist, martial-arts instructor... etc.). Fridays would work well as they are usually reserved for TA hours and project work, let us what you think, thanks!\n\nBest,\n\nRussell\n\nError! Filename not specified.\n\nOn Tue, Aug 2",
+            "start": {
+                "dateTime": "2017-10-02T11:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-10-02T13:00:00+08:00"
+            }
+        },
+        {
+            "description": "Russell Skype ID: russell.lin",
+            "start": {
+                "dateTime": "2017-10-02T14:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "kay@woobavr.com",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Hi there, \n\nRussell Lin is inviting you to a scheduled Zoom meeting. \n\nTopic: Russell Lin's Personal Meeting Room\n\nJoin from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8338428247\n\nOr iPhone one-tap :\n    US: +16699006833,,8338428247#  or +16468769923,,8338428247# \nOr Telephone：\n    Dial(for higher quality, dial a number based on your current location)：\n        US: +1 669 900 6833  or +1 646 876 9923 \n    Meeting ID: 833 842 8247\n    International numbers available: https://zoom.us/zoomconference?m=ywLKvvFhPAluiYeVmDgxyri73SDpRZ6D\n\n",
+            "start": {
+                "dateTime": "2017-10-02T14:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "bernard.chan@alphacamp.co",
+                    "displayName": "Bernard Chan",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "description": "Let's have a quick catch up on Zalora's project proposal and come up with a response",
+            "start": {
+                "dateTime": "2017-10-02T16:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "daniel.goh@alphacamp.tw",
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-10-04T10:00:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-10-05T20:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "daniel.olivan@gmail.com",
+                    "displayName": "Daniel Olivan",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-10-03T17:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "tim.du@alphacamp.co",
+                    "displayName": "Tim Du",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-10-06T15:00:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-10-03T13:00:00+08:00"
+            }
+        },
+        {
+            "start": {
+                "dateTime": "2017-10-05T10:00:00+08:00"
+            }
+        },
+        {
+            "description": "\n\n",
+            "start": {
+                "dateTime": "2017-10-05T10:00:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "max.tiong@income.com.sg",
+                    "displayName": "Max Tiong",
+                    "responseStatus": "needsAction"
+                },
+                {
+                    "email": "daniel.ling@income.com.sg",
+                    "displayName": "Daniel Ling",
+                    "responseStatus": "needsAction"
+                }
+            ]
+        },
+        {
+            "start": {
+                "dateTime": "2017-10-05T13:30:00+08:00"
+            },
+            "attendees": [
+                {
+                    "email": "maeyune.h@gmail.com",
+                    "displayName": "Mae Hoe",
+                    "responseStatus": "accepted"
+                },
+                {
+                    "email": "russell.lin@alphacamp.tw",
+                    "self": true,
+                    "responseStatus": "accepted"
+                }
+            ]
+        }
+    ]
+}

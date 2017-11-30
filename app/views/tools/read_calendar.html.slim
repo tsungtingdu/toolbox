@@ -1,0 +1,17 @@
+- count = 0
+ul
+  - @events.each do |event|
+    - description = event["description"]
+    - attendees = event["attendees"]
+    - start = event["start"]
+    - if description
+      - if description.include?("Interview with ALPHA Camp") == true
+        - attendees.each do |attendee|
+          - email = attendee["email"]
+          - if email.include?("alphacamp")
+          - else
+            - count = count + 1
+            li
+              = email
+    
+= link_to 'Back to Index', tools_path               
