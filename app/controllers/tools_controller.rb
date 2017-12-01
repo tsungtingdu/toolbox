@@ -9,4 +9,7 @@ class ToolsController < ApplicationController
     @events = calendareventlist["items"]
   end
 
+  def google_map 
+  end
+
 end
