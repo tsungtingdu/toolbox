@@ -1,3 +1,6 @@
+= link_to "Back to index", tools_url
+
+br
 
 table class="table"
   - @ubikes.each do |u|
@@ -14,5 +17,6 @@ table class="table"
         td
           = u.bemp        
 
+br
 
-
+= link_to "Back to index", tools_url
