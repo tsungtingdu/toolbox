@@ -8,7 +8,6 @@ class UbikesController < ApplicationController
     
     @data["result"]["results"].each do |u|
       @existing = Ubike.find_by_raw_id(u["_id"])
-      byebug
       if @existing
       else
         ubike = Ubike.create(:raw_id => u["_id"], :name => u["sna"], :slots => u["tot"], :bikes => u["sbi"], :bemp => u["bemp"])
