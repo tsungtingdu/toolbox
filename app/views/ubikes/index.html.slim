@@ -1,0 +1,18 @@
+
+table class="table"
+  - @ubikes.each do |u|
+    tbody
+      tr
+        td
+          = u.raw_id
+        td
+          = u.name
+        td
+          = u.slots
+        td
+          = u.bikes
+        td
+          = u.bemp        
+
+
+
