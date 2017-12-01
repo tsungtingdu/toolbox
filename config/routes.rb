@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   resources :tools do
     collection do
       get :read_calendar, to: 'tools#read_calendar'
+      get :google_map, to: 'tools#google_map'
     end  
   end
 
