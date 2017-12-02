@@ -11,5 +11,10 @@ Rails.application.routes.draw do
   end
 
   resources :ubikes
+  
+  get '/redirect', to: 'calendars#redirect', as: 'redirect'
+  get '/callback', to: 'calendars#callback', as: 'callback'
+  get '/calendars', to: 'calendars#index', as: 'calendars'
+  get '/events/:calendar_id', to: 'calendars#events', as: 'events'
 
 end

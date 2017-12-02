@@ -1,0 +1,16 @@
+table class="table"
+  thead
+    tr
+      th Summary
+      th Id
+      th Something
+  tbody
+  - @calendar_list.items.each do |calendar| 
+    tr
+      td
+        = calendar.summary
+      td
+        = calendar.id
+
+br
+= link_to "Back to index", tools_url
