@@ -10,16 +10,14 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171201095745) do
-
-  create_table "ubikes", force: :cascade do |t|
-    t.integer "raw_id"
-    t.string "name"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.integer "slots"
-    t.integer "bikes"
-    t.integer "bemp"
+ActiveRecord::Schema.define(version: 20_171_201_095_745) do
+  create_table 'ubikes', force: :cascade do |t|
+    t.integer 'raw_id'
+    t.string 'name'
+    t.datetime 'created_at', null: false
+    t.datetime 'updated_at', null: false
+    t.integer 'slots'
+    t.integer 'bikes'
+    t.integer 'bemp'
   end
-
 end

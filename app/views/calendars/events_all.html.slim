@@ -1,0 +1,31 @@
+table class="table"
+  thead
+    tr
+      th Count
+      th Date
+      th Description
+      th Attendees 
+  tbody    
+  - count = 0
+  - @event_list.items.each do |event|
+    - attendees = event.attendees
+    - description = event.description
+    - date = event.start
+    - if attendees
+      - attendees.each do |attendee|
+        - email = attendee.email
+        - count = count + 1
+        tr
+          td
+            = count
+          td
+            = event.start.date_time
+          td
+            = event.description
+          td
+            = email
+               
+
+ 
+
+= link_to 'Back to Calendar', calendars_path 
