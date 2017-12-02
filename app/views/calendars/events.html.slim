@@ -1,6 +1,28 @@
-ul
+table class="table" 
+  thead
+    tr
+      th Date
+      th Summary
+      th Attendees
+  tbody   
   - @event_list.items.each do |event|
-    li
-      = event.summary
-    li
-      = event.id  
+    - attendees = event.attendees
+    - description = event.description
+    - date = event.start
+
+    - if description
+      - if description.include?("Calendly") == true
+        - attendees.each do |attendee|
+          - email = attendee.email
+          - if email.include?("alphacamp")
+          - else
+            tr
+              td
+                = event.start.date_time
+              td
+                = event.summary
+              td
+                = email     
+ 
+
+= link_to 'Back to Calendar', calendars_path  

@@ -1,5 +1,4 @@
 class CalendarsController < ApplicationController
-
   def redirect
     client = Signet::OAuth2::Client.new(client_options)
 
@@ -17,7 +16,7 @@ class CalendarsController < ApplicationController
     redirect_to calendars_url
   end
 
-   def index
+  def index
     client = Signet::OAuth2::Client.new(client_options)
     client.update!(session[:authorization])
 
@@ -25,7 +24,7 @@ class CalendarsController < ApplicationController
     service.authorization = client
 
     @calendar_list = service.list_calendar_lists
-  end
+ end
 
   def events
     client = Signet::OAuth2::Client.new(client_options)
@@ -34,7 +33,17 @@ class CalendarsController < ApplicationController
     service = Google::Apis::CalendarV3::CalendarService.new
     service.authorization = client
 
-    @event_list = service.list_events(russell.lin@alphacamp.tw)
+    @event_list = service.list_events(params[:calendar_id])
+  end
+
+  def events_all
+    client = Signet::OAuth2::Client.new(client_options)
+    client.update!(session[:authorization])
+
+    service = Google::Apis::CalendarV3::CalendarService.new
+    service.authorization = client
+
+    @event_list = service.list_events(params[:calendar_id])
   end
 
   private
@@ -49,5 +58,4 @@ class CalendarsController < ApplicationController
       redirect_uri: callback_url
     }
   end
-
 end
